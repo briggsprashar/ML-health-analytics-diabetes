@@ -2,3 +2,5 @@ __pycache__/
 .venv/
 catboost_info/
 .vs/
+.venv-1/
+
