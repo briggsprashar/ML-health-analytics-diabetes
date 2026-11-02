@@ -1,10 +1,4 @@
-# 550-Group-Project-2026
+# ML-Health-Analytics-Diabetes
+Goal: Prediction model for &lt;30 day Readmissions using UCI 130 Hospital Diabetes Dataset  
 
-Project: ML Health Analytics
-
-Dataset: UCI 130 Hospital Diabetes Dataset
-
-Goal: Prediction model for <30 day Readmissions
-
-Paul Quimbo
-Briggs Prashar
+Paul Quimbo & Briggs Prashar
